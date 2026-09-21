@@ -132,12 +132,4 @@ E-Commerce-Shipping-Analysis/
 - Create automated reporting
 - Add advanced Power BI KPIs and measures
 
-## 📚 Dataset Source
-
-[Kaggle - EDA E-Commerce Shipping Data](https://www.kaggle.com/code/niteshyadav3103/eda-e-commerce-shipping-data/input)
-
-## 👩‍💻 Author
-
-**Vaishnavi Shrrikhande**
-
 Data Analyst | SQL | Power BI | Data Analysis
